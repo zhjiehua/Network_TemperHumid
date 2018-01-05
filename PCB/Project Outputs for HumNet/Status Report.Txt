@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HumNet.PrjPCB]
+   Generated File[HumNet-RoundHoles.TXT]
+   Generated File[HumNet-SlotHoles.TXT]
+   Generated File[HumNet.LDP]
+   Generated File[HumNet.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:27:56 On 2017/9/14 ÐÇÆÚËÄ

@@ -1,0 +1,17 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~HumNet.PrjPCB|ReportField=ProjectFullPath~F:\WDA\网络版温湿度传感器\PCB\HumNet.PrjPCB|ReportField=Title~Bill of Materials For Project [HumNet.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~58|ReportField=ReportTime~10:26:29|ReportField=ReportDate~2017/9/18 星期一|ReportField=ReportDateTime~2017/9/18 星期一 10:26:29|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/9/18 星期一|ReportField=CurrentTime~10:26:27|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\WDA\网络版温湿度传感器\PCB\HumNet.SchDoc|ReportField=DocumentName~HumNet.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/9/13 星期三|ReportField=Organization~|ReportField=ProjectName~HumNet.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~HumNet.PrjPCB|ReportField=DataSourceFullPath~F:\WDA\网络版温湿度传感器\PCB\HumNet.PrjPCB
+Cap|无极性电容|C1, C3, C5, C6, C8, C9, C10, C11, C12, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24|C-RAD-0603|Cap|20
+Cap Pol|极性电解电容|C2, C4, C7, C13|CAP-3528|Cap Pol|4
+LED0|发光二极管|D1, D2|LED_0805|LED0|2
+Fuse|保险丝|F1|1812|Fuse 2|1
+PWRCON|直流电源端子|J1|DC-005|PWRCON|1
+RJ45||J2|HR911105A|HR911105|1
+Inductor|电感|L1|1206|Inductor|1
+Header 2|接插件|P1|HDR2X1_A|Header 2|1
+Header 4|接插件|P2, P3|HDR4X1_A|Header 4|2
+Res1|贴片电阻|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18|0603-1|Res1|18
+DHT12||U1|DHT11|DHT12|1
+AT24C02|EEROM存储器|U2|SOIC8_N|AT24C02|1
+ASM1117|3.3V稳压芯片|U3|SOT-223|ASM1117|1
+STM32F103C|STM32单片机48引脚|U4|LQFP-48_M|STM32F103C|1
+ENC28J60||U5|SSOP28|ENC28J60|1
+XTAL|晶振|Y1, Y2|X-SM49|XTAL|2

@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HumNet.PcbDoc   2017/9/14 ÐÇÆÚËÄ  10:27:56
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HumNet-RoundHoles.TXT
+ASCII SlotHoles File : HumNet-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          39               8.04 Inch (204.31 mm)
+T2        27.56mil (0.70002mm)     Round          4                0.30 Inch (7.62 mm)
+T3        28mil (0.7112mm)         Round          22               10.11 Inch (256.78 mm)
+T4        35mil (0.889mm)          Round          8                0.71 Inch (18.08 mm)
+T5        35.43mil (0.89992mm)     Round          10               1.27 Inch (32.23 mm)
+T6        39.37mil (1mm)           Slot           3                287.67 Inch (7306.90 mm)
+T7        40.16mil (1.02006mm)     Round          4                0.52 Inch (13.20 mm)
+T8        64.96mil (1.64998mm)     Round          2                0.61 Inch (15.50 mm)
+---------------------------------------------------------------------------
+Totals                                            92               309.24 Inch (7854.62 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
